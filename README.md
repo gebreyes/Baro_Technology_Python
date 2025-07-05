@@ -1,1 +1,1 @@
-# Baro_Technology_Python
+# Python Tutorial for beginners and intermediaries prepared by Baro technology PLC and collaboration with MTU
