@@ -5,7 +5,7 @@ def say_hello(name):
 
 def main():
     print("This is the main function.")
-    say_hello("Alice")
+    say_hello("Alice Bob")
 
 if __name__ == "__main__":
     main()
